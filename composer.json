@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Likeplatform\\Cli\\": "src/"
+      "Luinuxscl\\Cli\\": "src/"
     }
   },
   "authors": [
