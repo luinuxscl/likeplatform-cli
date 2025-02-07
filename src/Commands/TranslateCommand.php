@@ -1,6 +1,6 @@
 <?php
 
-namespace Likeplatform\Cli\Commands;
+namespace Luinuxscl\Cli\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;

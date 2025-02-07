@@ -1,6 +1,6 @@
 <?php
 
-namespace Likeplatform\Cli;
+namespace Luinuxscl\Cli;
 
 use Illuminate\Support\ServiceProvider;
 
