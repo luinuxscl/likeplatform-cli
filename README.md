@@ -49,7 +49,3 @@ Gracias por considerar contribuir a LikePlatform CLI! Por favor, envía cualquie
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
-
----
-
-Puedes adaptar este ejemplo según tus necesidades o estilos particulares. Para obtener más detalles específicos o modificaciones, podrías revisar archivos normalmente relacionados como `README.md` en el repositorio en [GitHub](https://github.com/luinuxscl/likeplatform-cli).
